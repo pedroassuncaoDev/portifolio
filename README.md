@@ -1,43 +1,50 @@
-# Portfólio — Pedro Eduardo de Assunção
+🌐 Portfólio Personal | Pedro Eduardo de Assunção
 
-Portfólio profissional desenvolvido para apresentar minha trajetória em Tecnologia da Informação.
+Portfólio profissional desenvolvido para apresentar minha trajetória, competências e projetos.
 
-## Acessar o site
+🚀 Acesse o Site Online
 
-O projeto é estático e não precisa de instalação. Abra `index.html` em um navegador ou publique os arquivos em um serviço de hospedagem de sites estáticos.
+Este projeto já está publicado e rodando ao vivo pelo GitHub Pages!
 
-## Tecnologias
+👉 Clique aqui para acessar o Portfólio (https://pedroassuncaodev.github.io/portifolio)
 
-- HTML5
-- CSS3
-- JavaScript
+🛠️ Tecnologias Utilizadas
 
-## Estrutura
+HTML5: Estrutura semântica e acessibilidade.
 
-```text
+CSS3: Estilização responsiva e layouts modernos.
+
+JavaScript (ES6+): Interatividade e manipulação dinâmica do DOM.
+
+📁 Estrutura de Arquivos
+
 .
-├── index.html
-├── style.css
-├── scrip.js
-└── src
-    ├── Pedro_Assuncao_Curriculo_Analista_TI_Junior.pdf
-    └── assets
-        └── images
-            └── foto-de-capa.png
-```
+├── index.html          # Página principal do portfólio
+├── style.css           # Estilos globais e regras de layout
+├── script.js           # Scripts de interatividade
+└── src/
+    ├── Pedro_Assuncao_Curriculo_Analista_TI_Junior.pdf  # Currículo em PDF
+    └── assets/
+        └── images/
+            └── foto-de-capa.png                        # Foto de perfil / capa
 
-## Personalização
 
-- Substitua `src/assets/images/foto-de-capa.png` para atualizar a foto de apresentação.
-- Atualize o PDF em `src/Pedro_Assuncao_Curriculo_Analista_TI_Junior.pdf` ao publicar uma nova versão do currículo.
-- Edite as informações, competências e experiências diretamente em `index.html`.
-- Os cartões na seção de projetos são espaços reservados. Atualize-os com projetos reais, suas tecnologias e links quando estiverem disponíveis.
+⚙️ Guia de Personalização
 
-## Publicação
+Para atualizar as informações exibidas no site publicado:
 
-Publique a pasta do projeto mantendo a estrutura de arquivos indicada acima. O site usa caminhos relativos para carregar a folha de estilos, o JavaScript, a foto e o currículo.
+Foto de Perfil: Substitua o arquivo em src/assets/images/foto-de-capa.png.
 
-## Contato
+Currículo: Atualize o arquivo PDF em src/Pedro_Assuncao_Curriculo_Analista_TI_Junior.pdf mantendo o nome do arquivo.
 
-- E-mail: [pedro.eassuncao@senacsp.edu.br](mailto:pedro.eassuncao@senacsp.edu.br)
-- LinkedIn: [Pedro Eduardo de Assunção](https://www.linkedin.com/in/pedro-eduardo-assunção/)
+Conteúdo: Edite os textos e seções diretamente no index.html.
+
+Atualizar no Ar: Faça o commit e push para a branch main. O GitHub Pages atualizará o site automaticamente em alguns segundos.
+
+📬 Contato
+
+E-mail: pedro.eassuncao@senacsp.edu.br
+
+LinkedIn: Pedro Eduardo de Assunção
+
+Desenvolvido por Pedro Eduardo de Assunção.
